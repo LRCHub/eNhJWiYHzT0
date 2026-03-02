@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "僕らの (vo.Meadow)",
+  "base_artist": "haruka nakamura",
+  "createdAt": "2026-03-02T00:00:23.575972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕らの",
+      "artist": "Gero",
+      "has_synced": false,
+      "path": "select/01_僕らの_Gero.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕らの (vo.Meadow)",
+      "artist": "haruka nakamura",
+      "has_synced": false,
+      "path": "select/pl_01_僕らの_(vo.Meadow)_haruka_nakamura.txt"
+    }
+  ]
+}
